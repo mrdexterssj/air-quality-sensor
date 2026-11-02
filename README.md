@@ -1,4 +1,4 @@
-# Air quality detector with OLED screen
+# Air quality sensor with OLED screen
 
 <img width="301" height="628" alt="image" src="https://github.com/user-attachments/assets/e9a105b3-bd2e-412a-98af-3ef517314b64" />
 
