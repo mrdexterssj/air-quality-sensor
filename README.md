@@ -28,7 +28,16 @@ They can be found inside `/co2-detector/production` as files, and compressed in 
 
 ## BOM Table
 
-Pending
+|Item                    |Qty|Supplier     |Cost/item|Total Cost|link                                                                                                                                               |Note                           |
+|------------------------|---|-------------|---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+|0.96 OLED               |1  |Temu         |$5.00    |$5.00     |https://www.temu.com/ec/2-piezas--de-pantalla-oled-de-0-96-pulgadas-12864-128x64--vcc-start-----pantalla-de--compatible-con--g-605685932739878.html|                               |
+|XIAO-ESP32-C3           |1  |Seeed Studio |$4.90    |$4.90     |https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html                                                                                         |                               |
+|MQ-135                  |1  |Novatronic EC|$4.50    |$4.50     |https://novatronicec.com/index.php/product/mq-135-sensor-calidad-de-aire/                                                                          |In person order, so no shipping|
+|PCB                     |1  |Novatronic EC|$3.00    |$3.00     |https://novatronicec.com/index.php/product/fabricacion-de-circuitos-impresos-pcb/                                                                  |In person order, so no shipping|
+|Red LED                 |1  |Local store  |$0.05    |$0.05     |N/A                                                                                                                                                |I already have it              |
+|Small button            |!  |Local store  |$0.05    |$0.05     |N/A                                                                                                                                                |I already have it              |
+|                        |   |             |         |          |                                                                                                                                                   |                               |
+|Estimated total shipping|1  |             |         |$8.73     |                                                                                                                                                   |                               |
 
 ## Screenshots
 
