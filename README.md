@@ -9,6 +9,7 @@ A custom CO2 detector that displays the information on an OLED screen and has a 
 * Uses the MQ-135 air quality sensor to detect the ppm os different nocive gases present in the air surrounding the device
 * Has an 0.96 inches OLED screen to display the sensor's information and recommendations
 * Has an alarm feature, where if the ppm exceed a certain threshold, an LED starts blinking and the screen shows a warning
+* The alarm includes a buzzer that makes sounds at the same time the LED blinks (not added to the firmware yet)
 * It also has a button the user can click to snooze the alarm for a minute. After that time passes, the sensor may trigger the alarm again if the ppm hadn't dropped below the predefined threshold
 * It uses a XIAO-ESP32-C3 as the microcontroller
 
