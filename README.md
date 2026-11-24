@@ -55,7 +55,7 @@ _Front render_
 
 _Back render_
 
-<img width="685" height="550" alt="image" src="https://github.com/user-attachments/assets/e7f725ed-6d22-4b6b-a60c-42785ba20b11" />
+<img width="685" height="550" alt="schematic" src="https://github.com/user-attachments/assets/e7f725ed-6d22-4b6b-a60c-42785ba20b11" />
 
 _The schematic_
 
